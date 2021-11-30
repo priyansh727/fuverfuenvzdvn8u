@@ -1,0 +1,2 @@
+with open(file1, 'r') as a:
+a.write(data_b)
